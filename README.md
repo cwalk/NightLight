@@ -12,4 +12,6 @@ Open the Arduino project: `open NightLight.ino`
 
 Verify and upload the project to your Arduino.
 
+## YouTube
+
 YouTube: https://www.youtube.com/watch?v=matYF6vvQQY
